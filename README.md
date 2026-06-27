@@ -59,39 +59,7 @@ const amritanshu: Developer = {
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,postgres,redis,docker,nginx,git,github,vscode&theme=dark&perline=11" alt="Tech Stack Icons"/>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Protobuf-3B4151?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google%20ADK%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=go,python,ts,nodejs,nextjs,react,fastapi,postgres,redis,docker,nginx,git,github,vscode,html,css,js&theme=dark&perline=9" alt="Tech Stack Icons"/>
 
 </div>
 
